@@ -3,6 +3,8 @@
 ## 1: Mean-Variance-Standard Deviation Calculator
 ## 2: Demographic Data Analyzer
 ## 3: Medical Data Visualizer
+![catplot](FreeCodeCampPythonDataAnalysis/MedicalDataVIsualizer/catplot.png)
+![](
 ## 4: Page View Time Series Visualizer
 ## 5: Sea Level Predictor
 
