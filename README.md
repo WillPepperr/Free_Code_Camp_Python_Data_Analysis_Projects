@@ -9,4 +9,4 @@
 <h2>4: Page View Time Series Visualizer</h2>
 
 <h2>5: Sea Level Predictor</h2>
-![sea_level_plot](FreeCodeCampPythonDataAnalysis/sea_level_plot.png)
+![sea_level_plot](sea_level_plot.png)
