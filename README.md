@@ -6,4 +6,4 @@
 ## 4: Page View Time Series Visualizer
 ## 5: Sea Level Predictor
 
-![sea_level_plot](sea_level_plot.png)
+![sea_level_plot](FreeCodeCampPythonDataAnalysis/sea_level_plot.png)
