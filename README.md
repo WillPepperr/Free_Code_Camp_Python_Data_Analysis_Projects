@@ -9,4 +9,4 @@
 <h2>4: Page View Time Series Visualizer</h2>
 
 <h2>5: Sea Level Predictor</h2>
-![sea_level_plot](https://github.com/user-attachments/assets/75053a45-c16d-42a0-ab71-b202d9a30b79)
+![sea_level_plot](https://github.com/user-attachments/assets/7cf98313-ea7a-4a0d-a324-6bd5d5d1b8d4)
