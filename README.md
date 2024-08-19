@@ -1,7 +1,9 @@
 # 5 Python Data Projects for Data Analysis with Python Certification
 
 ## 1: Mean-Variance-Standard Deviation Calculator
+<img src="FreeCodeCampPythonDataAnalysis/Standard_Deviation_Calculator.png" alt="standard_deviation" width="640">
 ## 2: Demographic Data Analyzer
+<img src="FreeCodeCampPythonDataAnalysis/Demographic_Data_Analyzer.png" alt="demographic_data" width="640">
 ## 3: Medical Data Visualizer
 <img src="FreeCodeCampPythonDataAnalysis/MedicalDataVIsualizer/catplot.png" alt="catplott" width="640">
 <img src="FreeCodeCampPythonDataAnalysis/MedicalDataVIsualizer/heatmap.png" alt="heatmap" width="640">
