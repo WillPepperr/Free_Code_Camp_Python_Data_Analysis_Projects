@@ -12,10 +12,36 @@ Finally, I just needed to format the output. This included the names of the calc
 
 ## 2: Demographic Data Analyzer
 <img src="FreeCodeCampPythonDataAnalysis/Demographic_Data_Analyzer.PNG" alt="demographic_data" width="640">
+My next project involved loading a CSV into Python using the Pandas library to perform a wide variety of calculations on a demographic dataset. 
+[Imgage]
+Examples of calculations this project required were: average male age, percentage of people with advanced education, and percentage earning a salary threshold of $50,000 annually with and without education. 
+[Image]
+My approach to this problem was to assign a variable to perform the calculation and set that variable equal to the variable given by the problem's author. This helped me read and understand the calculations I was performing, and keep a clean and consistent aesthetic to the code.
+[image]
+ (Demographic Data Analyzer Code)
 
 ## 3: Medical Data Visualizer
+
+This project introduced Data Visualization using Matplotlib and Seaborn libraries, visualizing biometric results to explore the relationship of multiple variables including  cardiac disease, blood markers, and lifestyle choices.
+
+
+The first step was to import the data and add an 'overweight' metric using a basic BMI calculation based on individual weight and height. This was followed by normalizing the cholesterol and glucose levels to normal or high.
+
+[image]
+
+Now that the data is formatted correctly, I need to draw the first graph, a cat plot. I first added the metrics needed to be plotted, then I used the .groupby() function to compare those who perform cardio exercise regularly and those who do not. Then the Seaborn plot is called to display the graph.
+
 <img src="FreeCodeCampPythonDataAnalysis/MedicalDataVIsualizer/catplot.png" alt="catplott" width="640">
+
+For the heat map, the author wants the data cleaned first. to perform this the bottom 2.5% and top 97.5% of height values will be removed for an accurate result.
+
+[image]
+
+Before the heat map can be displayed, a couple of values need to be assigned. This includes the correlation method and a mask. Afterwards the Seaborn heatmap() function can be called, displaying the heat map.
+
 <img src="FreeCodeCampPythonDataAnalysis/MedicalDataVIsualizer/heatmap.png" alt="heatmap" width="640">
+
+(Medical Data Visualizer Code) [link]
 
 ## 4: Page View Time Series Visualizer
 <img src="FreeCodeCampPythonDataAnalysis/TimeSeriesImages/bar_plot.png" alt="barplot" width="640">
