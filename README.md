@@ -3,22 +3,34 @@
 ## 1: Mean-Variance-Standard Deviation Calculator
 <img src="FreeCodeCampPythonDataAnalysis/Standard_Deviation_Calculator.PNG" alt="standard_deviation" width="640">
 The goal of this project was to convert a 9-character Python string into a 3x6 Numpy array of mathematical calculations. I took a unique approach, first converting the 1x9 python list into a 3x3 Numpy array.
+
 [Image]
+
 Next, I found the locations of all the values for performing the calculations. This was pretty straightforward. I created a variable for each value in the final array, specifying the rows and columns for each calculation.
+
 [image]
+
 Finally, I just needed to format the output. This included the names of the calculations I performed and the variables I had set earlier to display the resulting calculations in the 3x6 array. 
+
 [Image]
+
 (Mean-Variance-Standard Deviation Calculator Code [Hyperlink to code])
 
 ## 2: Demographic Data Analyzer
 <img src="FreeCodeCampPythonDataAnalysis/Demographic_Data_Analyzer.PNG" alt="demographic_data" width="640">
 My next project involved loading a CSV into Python using the Pandas library to perform a wide variety of calculations on a demographic dataset. 
+
 [Imgage]
+
 Examples of calculations this project required were: average male age, percentage of people with advanced education, and percentage earning a salary threshold of $50,000 annually with and without education. 
+
 [Image]
+
 My approach to this problem was to assign a variable to perform the calculation and set that variable equal to the variable given by the problem's author. This helped me read and understand the calculations I was performing, and keep a clean and consistent aesthetic to the code.
+
 [image]
- (Demographic Data Analyzer Code)
+
+(Demographic Data Analyzer Code)
 
 ## 3: Medical Data Visualizer
 
