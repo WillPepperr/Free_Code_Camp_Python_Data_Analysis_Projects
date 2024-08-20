@@ -57,20 +57,24 @@ Before the heat map can be displayed, a couple of values need to be assigned. Th
 
 ## 4: Page View Time Series Visualizer
 For this project, I am given data on page views in a CSV for the FreeCodeCamp website including daily visit numbers. First I import the CSV and clean the data removing the same 2.5% and 97.5% quantile from the dataset. 
-[image]
+
+<img src="FreeCodeCampPythonDataAnalysis/Time_Series_Images/Time_Series_1.PNG" alt="TimeSeries1" width="640">
+
 Next, I draw a line plot. This is very straightforward using Matplotlib. I simply call the function import the dataframe, and set the correct labeling.
-image[]
+
+<img src="FreeCodeCampPythonDataAnalysis/Time_Series_Images/Time_Series_2.PNG" alt="TimeSeries2" width="640">
+
 <img src="FreeCodeCampPythonDataAnalysis/TimeSeriesImages/line_plot.png" alt="lineplot" width="640">
 
 The second plot required is a bar plot. This will group each year and display a bar for the average daily views each month. I do this with the 'groupby()' function, and then I call the 'bar.plot()' function and list the months as the legend.
 
-[Image]
+<img src="FreeCodeCampPythonDataAnalysis/Time_Series_Images/Time_Series_3.PNG" alt="TimeSeries3" width="640">
 
 <img src="FreeCodeCampPythonDataAnalysis/TimeSeriesImages/bar_plot.png" alt="barplot" width="640">
 
 Finally, there needs to be a box plot containing 2 graphs. One that shows the trend by drawing a box and whiskers for each year, and one that has a box and whiskers for the 12 months. I do this by setting the month number to the correlated name and drawing the boxplots on 2 different axes. The year plot is 'axis[0]' and the monthly is 'axis[1]'.
 
-[image]
+<img src="FreeCodeCampPythonDataAnalysis/Time_Series_Images/Time_Series_4.PNG" alt="TimeSeries4" width="640">
 
 <img src="FreeCodeCampPythonDataAnalysis/TimeSeriesImages/box_plot.png" alt="boxplot" width="640">
 
