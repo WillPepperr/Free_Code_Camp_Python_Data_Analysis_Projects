@@ -82,11 +82,11 @@ Finally, there needs to be a box plot containing 2 graphs. One that shows the tr
 ## 5: Time View Sea Level Predictor
 The last project of the certification includes a file containing sea level measurements each year. A scatterplot with 2 trendline calculations needs to be created. After importing the CSV, I set the X and Y values to year and the sea level measurement. Then I can use the 'linregress()' function to calculate the trendline using data from all the dates provided.
 
-[image]
+<img src="FreeCodeCampPythonDataAnalysis/Sea_Level_Predictor_1.PNG" alt="Sea1" width="640">
 
 After this, another 'linregress()' line is created, but this time just using data after 2000. When visualized, it shows a much sharper increase. Finally all that's left is labeling the axes and setting the title.
 
-image[]
+<img src="FreeCodeCampPythonDataAnalysis/Sea_Level_Predictor_2.PNG" alt="Sea2" width="640">
 
 ![sea_level_plot](FreeCodeCampPythonDataAnalysis/sea_level_plot.png)
 
