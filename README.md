@@ -39,18 +39,19 @@ This project introduced Data Visualization using Matplotlib and Seaborn librarie
 
 The first step was to import the data and add an 'overweight' metric using a basic BMI calculation based on individual weight and height. This was followed by normalizing the cholesterol and glucose levels to normal or high.
 
-[image]
+<img src="FreeCodeCampPythonDataAnalysis/MedicalDataVIsualizer/Medical_Data_Visualizer1.PNG" alt="Medical1" width="640">
 
 Now that the data is formatted correctly, I need to draw the first graph, a cat plot. I first added the metrics needed to be plotted, then I used the .groupby() function to compare those who perform cardio exercise regularly and those who do not. Then the Seaborn plot is called to display the graph.
-
+<img src="FreeCodeCampPythonDataAnalysis/MedicalDataVIsualizer/Medical_Data_Visualizer1b.PNG" alt="Medical1b" width="640">
 <img src="FreeCodeCampPythonDataAnalysis/MedicalDataVIsualizer/catplot.png" alt="catplott" width="640">
 
 For the heat map, the author wants the data cleaned first. to perform this the bottom 2.5% and top 97.5% of height values will be removed for an accurate result.
 
-[image]
+<img src="FreeCodeCampPythonDataAnalysis/MedicalDataVIsualizer/Medical_Data_Visualizer2.PNG" alt="Medical2" width="640">
 
 Before the heat map can be displayed, a couple of values need to be assigned. This includes the correlation method and a mask. Afterwards the Seaborn heatmap() function can be called, displaying the heat map.
 
+<img src="FreeCodeCampPythonDataAnalysis/MedicalDataVIsualizer/Medical_Data_Visualizer3.PNG" alt="Medical3" width="640">
 <img src="FreeCodeCampPythonDataAnalysis/MedicalDataVIsualizer/heatmap.png" alt="heatmap" width="640">
 
 (Medical Data Visualizer Code) [link]
