@@ -4,15 +4,15 @@
 <img src="FreeCodeCampPythonDataAnalysis/Standard_Deviation_Calculator.PNG" alt="standard_deviation" width="640">
 The goal of this project was to convert a 9-character Python string into a 3x6 Numpy array of mathematical calculations. I took a unique approach, first converting the 1x9 python list into a 3x3 Numpy array.
 
-[Image]
+<img src="FreeCodeCampPythonDataAnalysis/Standard_Deviation_Calculator_Images/Calculator_1.PNG" alt="Calculator1" width="640">
 
 Next, I found the locations of all the values for performing the calculations. This was pretty straightforward. I created a variable for each value in the final array, specifying the rows and columns for each calculation.
 
-[image]
+<img src="FreeCodeCampPythonDataAnalysis/Standard_Deviation_Calculator_Images/Calculator_2.PNG" alt="Calculator2" width="640">
 
 Finally, I just needed to format the output. This included the names of the calculations I performed and the variables I had set earlier to display the resulting calculations in the 3x6 array. 
 
-[Image]
+<img src="FreeCodeCampPythonDataAnalysis/Standard_Deviation_Calculator_Images/Calculator_3.PNG" alt="Calculator3" width="640">
 
 (Mean-Variance-Standard Deviation Calculator Code [Hyperlink to code])
 
