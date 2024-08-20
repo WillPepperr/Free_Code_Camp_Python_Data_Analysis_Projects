@@ -20,15 +20,15 @@ Finally, I just needed to format the output. This included the names of the calc
 <img src="FreeCodeCampPythonDataAnalysis/Demographic_Data_Analyzer.PNG" alt="demographic_data" width="640">
 My next project involved loading a CSV into Python using the Pandas library to perform a wide variety of calculations on a demographic dataset. 
 
-[Imgage]
+<img src="FreeCodeCampPythonDataAnalysis/Demographic_Data_Analyzer/Demographic_1.PNG" alt="Demographic1" width="640">
 
 Examples of calculations this project required were: average male age, percentage of people with advanced education, and percentage earning a salary threshold of $50,000 annually with and without education. 
 
-[Image]
+<img src="FreeCodeCampPythonDataAnalysis/Demographic_Data_Analyzer/Demographic_2.PNG" alt="Demographic2" width="640">
 
 My approach to this problem was to assign a variable to perform the calculation and set that variable equal to the variable given by the problem's author. This helped me read and understand the calculations I was performing, and keep a clean and consistent aesthetic to the code.
 
-[image]
+<img src="FreeCodeCampPythonDataAnalysis/Demographic_Data_Analyzer/Demographic_3.PNG" alt="Demographic3" width="640">
 
 (Demographic Data Analyzer Code)
 
