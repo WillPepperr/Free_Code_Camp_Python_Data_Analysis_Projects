@@ -42,7 +42,9 @@ The first step was to import the data and add an 'overweight' metric using a bas
 <img src="FreeCodeCampPythonDataAnalysis/MedicalDataVIsualizer/Medical_Data_Visualizer1.PNG" alt="Medical1" width="640">
 
 Now that the data is formatted correctly, I need to draw the first graph, a cat plot. I first added the metrics needed to be plotted, then I used the .groupby() function to compare those who perform cardio exercise regularly and those who do not. Then the Seaborn plot is called to display the graph.
+
 <img src="FreeCodeCampPythonDataAnalysis/MedicalDataVIsualizer/Medical_Data_Visualizer1b.PNG" alt="Medical1b" width="640">
+
 <img src="FreeCodeCampPythonDataAnalysis/MedicalDataVIsualizer/catplot.png" alt="catplott" width="640">
 
 For the heat map, the author wants the data cleaned first. to perform this the bottom 2.5% and top 97.5% of height values will be removed for an accurate result.
