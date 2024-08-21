@@ -1,5 +1,7 @@
 # FreeCodeCamp: 5 Python Data Projects for Data Analysis with Python Certification
 
+### These are the 5 Python projects formulated by [FreeCodeCamp](https://www.freecodecamp.org/learn) for their Data Analysis with Python course. FreeCodeCamp provides free video tutorials, articles, and projects for programming.
+
 ## 1: Mean-Variance-Standard Deviation Calculator
 <img src="FreeCodeCampPythonDataAnalysis/Standard_Deviation_Calculator.PNG" alt="standard_deviation" width="640">
 The goal of this project was to convert a 9-character Python string into a 3x6 Numpy array of mathematical calculations. I took a unique approach, first converting the 1x9 python list into a 3x3 Numpy array.
@@ -18,7 +20,7 @@ Finally, I just needed to format the output. This included the names of the calc
 
 ## 2: Demographic Data Analyzer
 <img src="FreeCodeCampPythonDataAnalysis/Demographic_Data_Analyzer.PNG" alt="demographic_data" width="640">
-My next project involved loading a CSV into Python using the Pandas library to perform a wide variety of calculations on a demographic dataset. 
+My next project involved loading a CSV into Python using the Pandas library to perform a variety of calculations on a demographic dataset. 
 
 <img src="FreeCodeCampPythonDataAnalysis/Demographic_Data_Analyzer/Demographic_1.PNG" alt="Demographic1" width="640">
 
