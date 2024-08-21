@@ -14,7 +14,7 @@ Finally, I just needed to format the output. This included the names of the calc
 
 <img src="FreeCodeCampPythonDataAnalysis/Standard_Deviation_Calculator_Images/Calculator_3.PNG" alt="Calculator3" width="640">
 
-(Mean-Variance-Standard Deviation Calculator Code [Hyperlink to code])
+[Mean-Variance-Standard Deviation Calculator Code](https://github.com/WillPepperr/Free_Code_Camp_Python_Data_Analysis_Projects/blob/main/FreeCodeCampPythonDataAnalysis/ProjectCode/Mean_Variance_STD_Code)
 
 ## 2: Demographic Data Analyzer
 <img src="FreeCodeCampPythonDataAnalysis/Demographic_Data_Analyzer.PNG" alt="demographic_data" width="640">
@@ -30,7 +30,7 @@ My approach to this problem was to assign a variable to perform the calculation 
 
 <img src="FreeCodeCampPythonDataAnalysis/Demographic_Data_Analyzer/Demographic_3.PNG" alt="Demographic3" width="640">
 
-(Demographic Data Analyzer Code)
+[Demographic Data Analyzer Code](https://github.com/WillPepperr/Free_Code_Camp_Python_Data_Analysis_Projects/blob/main/FreeCodeCampPythonDataAnalysis/ProjectCode/Mean_Variance_STD_Code)
 
 ## 3: Medical Data Visualizer
 
@@ -56,7 +56,7 @@ Before the heat map can be displayed, a couple of values need to be assigned. Th
 <img src="FreeCodeCampPythonDataAnalysis/MedicalDataVIsualizer/Medical_Data_Visualizer3.PNG" alt="Medical3" width="640">
 <img src="FreeCodeCampPythonDataAnalysis/MedicalDataVIsualizer/heatmap.png" alt="heatmap" width="640">
 
-(Medical Data Visualizer Code) [link]
+[Medical Data Visualizer Code](https://github.com/WillPepperr/Free_Code_Camp_Python_Data_Analysis_Projects/blob/main/FreeCodeCampPythonDataAnalysis/ProjectCode/Medical_Data_Visualizer_Code)
 
 ## 4: Page View Time Series Visualizer
 For this project, I am given data on page views in a CSV for the FreeCodeCamp website including daily visit numbers. First I import the CSV and clean the data removing the same 2.5% and 97.5% quantile from the dataset. 
@@ -81,6 +81,7 @@ Finally, there needs to be a box plot containing 2 graphs. One that shows the tr
 
 <img src="FreeCodeCampPythonDataAnalysis/TimeSeriesImages/box_plot.png" alt="boxplot" width="640">
 
+[Page View Time Series Visualizer Code](https://github.com/WillPepperr/Free_Code_Camp_Python_Data_Analysis_Projects/blob/main/FreeCodeCampPythonDataAnalysis/ProjectCode/Time_Series_Visualizer_Code)
 
 ## 5: Time View Sea Level Predictor
 The last project of the certification includes a file containing sea level measurements each year. A scatterplot with 2 trendline calculations needs to be created. After importing the CSV, I set the X and Y values to year and the sea level measurement. Then I can use the 'linregress()' function to calculate the trendline using data from all the dates provided.
@@ -92,6 +93,8 @@ After this, another 'linregress()' line is created, but this time just using dat
 <img src="FreeCodeCampPythonDataAnalysis/Sea_Level_Predictor/Sea_Level_Predictor_2.PNG" alt="Sea2" width="640">
 
 ![sea_level_plot](FreeCodeCampPythonDataAnalysis/sea_level_plot.png)
+
+[Time View Swa Level Predictor Code](https://github.com/WillPepperr/Free_Code_Camp_Python_Data_Analysis_Projects/blob/main/FreeCodeCampPythonDataAnalysis/ProjectCode/Time_Series_Visualizer_Code)
 
 ## Final Thoughts
 I really enjoyed working on these Python data projects! I thought they were challenging enough to figure out, but the libraries make the actual written code concise and easy to understand. I would like to thank FreeCodeCamp for the structured lessons and project materials. It was a great introduction to utilizing common Python libraries for data analysis, and I look forward to learning more about code and doing more projects with Python!
